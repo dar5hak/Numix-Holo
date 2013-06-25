@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Numix Holo
+Comment=A flat, modern theme, somewhat inspired by Android's Holo
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Numix Holo
+ButtonLayout=:minimize,maximize,close

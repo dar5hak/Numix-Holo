@@ -1,0 +1,24 @@
+# Name: Numix Holo xfwm4 theme
+# Original Author: Satyajit Sahoo <satyajit.happy@gmail.com>
+# Modified by: Darshak Parikh <duskparikh on google>
+# License: GPL-3.0+
+
+active_text_color=#dcdcdc
+inactive_text_color=#888888
+button_offset=4
+button_spacing=2
+show_app_icon=true
+full_width_title=true
+maximized_offset=4
+title_horizontal_offset=6
+title_shadow_active=false
+title_shadow_inactive=false
+title_vertical_offset_active=0
+title_vertical_offset_inactive=0
+title_shadow_active=false
+title_shadow_inactive=false
+shadow_delta_height=0
+shadow_delta_width=0
+shadow_delta_x=0
+shadow_delta_y=0
+shadow_opacity=30
