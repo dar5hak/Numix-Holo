@@ -1,0 +1,2 @@
+ - Corner detection: when a user lazily moves the mouse to the extreme corner of the screen, the titlebar button (usually 'close') should be sensed, so that the user can click the button without having to pinpoint it. For example, Greybird implements this perfectly. This will need resizing of them pixmaps in xfwm/.
+ - Design 'shade' and 'stick' buttons
