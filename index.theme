@@ -1,7 +1,7 @@
 [Desktop Entry]
 Type=X-GNOME-Metatheme
 Name=Numix Holo
-Comment=A flat, modern theme, somewhat inspired by Android's Holo
+Comment=A flat, modern theme, forked from Numix and inspired by Android's Holo
 Encoding=UTF-8
 
 [X-GNOME-Metatheme]
