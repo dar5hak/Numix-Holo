@@ -1,6 +1,6 @@
 Numix Holo
 ==========
 
-Numix Holo contains a widget theme (GTK+ 2 and 3) and an Xfce window decoration theme (Xfwm4). It follows the 'flat' design paradigm, as opposed to glossy, and aims to be clean and easy on the eyes.
+Numix Holo is a theme for GTK+ 2, GTK+ 3, Xfwm and Xfce notifications. It is based on @shimmerproject/Numix and sports Holo-like colours.
 
-To install it, download and extract the ZIP, and move the newly extracted 'Numix Holo' folder into ~/.themes or /usr/share/themes (works on most GNU/Linux distributions).
+To install it, download and extract the ZIP, and move the newly extracted `Numix Holo` folder into `~/.themes` or `/usr/share/themes`.
